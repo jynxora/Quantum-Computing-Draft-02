@@ -53,4 +53,5 @@ Historical context and development narratives
 ## Read the Full Guide
 
 
-This is day 79 of my #700DaysOfSkill journey. Follow along as I document the intersection of emerging technologies, practical applications, and the future of computing.
+This is day 79 of my #700DaysOfSkill journey. 
+Follow along as I document the intersection of emerging technologies, practical applications, and the future of computing.
