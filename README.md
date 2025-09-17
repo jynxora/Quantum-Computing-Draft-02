@@ -53,7 +53,8 @@ Does quantum computing challenge our understanding of observer vs observed?
 
 Will room-temperature quantum computers revolutionize energy efficiency?
 
-🔗 What's Inside
+### 🔗 What's Inside
+
 18 comprehensive sections covering everything from fundamental principles to cultural impact, including:
 
 Algorithmic thinking differences
