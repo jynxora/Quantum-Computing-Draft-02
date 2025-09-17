@@ -27,12 +27,6 @@ Volkswagen's Quantum Traffic Optimization (actual deployed system in Lisbon)
 Why drug discovery and cryptography are quantum computing's sweet spots
 Which problems quantum computers will never solve better
 
-🔮 Future Predictions
-
-Expert consensus on the next 10-20 years
-Three potential scenarios: Advantage, Supremacy, or Winter
-Why it's Classical AND Quantum, not Classical OR Quantum
-
 ### Perfect For
 
 Developers curious about the next computing paradigm
